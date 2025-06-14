@@ -22,3 +22,6 @@ Repozytorium zawiera stronę z przewodnikiem po stolicach Europy, stworzoną prz
 ## 🚀 Jak uruchomić
 1. Otwórz `index.html` lokalnie  
 2. Lub wejdź na stronę GitHub Pages (link powyżej)
+
+## Twórcy
+1. Berlin - Paweł
